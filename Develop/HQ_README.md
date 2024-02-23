@@ -1,6 +1,6 @@
-# a
+# Alex's cool project
   
-  b
+  My project shows what a cool person Alex is
 
   ---
   
@@ -19,31 +19,31 @@
   
   ### INSTALLATION
   
-  c
+  You will need to do this and this to install the project
   
   <a id="item-two"></a>
   
   ### USAGE
   
-  d
+  The project is intended to be used in this way
   
   <a id="item-three"></a>
   
   ### CONTRIBUTING
   
-  e
+  People can contribute to this project
   
   <a id="item-four"></a>
   
   ### TESTS
   
-  f
+  You can test the project this way
   
   <a id="item-five"></a>
   
   ### LICENSE
   
-   
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) https://api.github.com/licenses/mit
   
   <a id="item-six"></a>
   
@@ -51,6 +51,6 @@
   
   If you have questions you can get in touch via the contacts below:
 
-  g
+  coolUser
 
-  h
+  cool@cool.com
