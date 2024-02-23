@@ -61,7 +61,7 @@ I learned how to use inquirer to create a series of prompts that could be answer
 
 ### USAGE
 
-The deployed page through GitHub can be found at the following [link](https://alexahnbaum.github.io/Challenge_6_How-s_The_Weather-/)
+It can be used by pulling the code from my repository for you to create a README markdown file. Please refer to the video demo link above the table contents.
 
 <a id="item-six"></a>
 
